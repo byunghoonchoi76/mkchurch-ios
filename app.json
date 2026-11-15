@@ -2,6 +2,7 @@
   "expo": {
     "name": "목양교회 기도",
     "slug": "mkchurch-ios",
+    "owner": "bh8483",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -26,6 +27,11 @@
           "imageWidth": 160
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "02fe0427-9e26-4aaf-a0af-72290da77b9f"
+      }
+    }
   }
 }
